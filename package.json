@@ -1,6 +1,6 @@
 {
   "name": "buddy-cue-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "buddy-cue-api",
   "main": "index.js",
